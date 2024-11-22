@@ -1,0 +1,24 @@
+
+Policy Number tar80902ta
+name: tarun k p
+email: tarunn@vit.com
+phone number: 8090241924
+date of birth: 1970-10-24
+age: 52
+Policy Premium: 20000
+
+Policy Number som93542So
+name: Somy Srivastava
+email: somy@vit.in
+phone number: 9354211791
+date of birth: 2003-05-12
+age: 19
+Policy Premium: 10000
+
+Policy Number kap99855sh
+name: shobit
+email: kapila@gmail.com
+phone number: 9985506841
+date of birth: 2004-02-03
+age: 20
+Policy Premium: 10000
